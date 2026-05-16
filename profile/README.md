@@ -1,9 +1,8 @@
 # Profile
 
-Hello!
 
 <details>
-  <summary>△ ▽</summary>
+  <summary>Welcome</summary>
 
 
 
